@@ -31,6 +31,8 @@ Se utilizaron los siguientes Google Dorks:<br/>
 ### Buscar componentes del servidor WEB con vulnerabilidades identificadas
 `site:*.gob.mx inurl:javax.faces.resource OR inurl:jsp OR inurl:jsf OR inurl:xhtml`
 >Riesgos varios dependiendo de la vulnerabilidad, se probó vulnerabilidad de PATH TRAVERSAL en los primeros 2 resultados, encontrándose uno de ellos con la capacidad de explotarse la vulnerabilidad.<br/>
+> [!NOTE]
+> Evidencias en [PARTE_1_GOOGLE_DORKS](/PARTE_1_GOOGLE_DORKS).
 <br/><br/>
 
 
@@ -62,31 +64,33 @@ Se encontraron los siguientes Google Dorks (Google Hacking):<br/>
 4. Del DNS se obtuvo la IP (Transformer: To IP Address DNS).
 5. De la IP se obutvo la localicación (Transformer: To location City, Country).<br/>
 ![Mapa visual - Tarea 3 realizado en Maltego](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2010.53.00%E2%80%AFa.m..png)<br/>
-![Mapa visual - Tarea 3 v2, realizado en Maltego utilizando herramienta MACHINES - FOOTPRINT L1](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2011.00.52%E2%80%AFa.m..png)
+![Mapa visual - Tarea 3 v2, realizado en Maltego utilizando herramienta MACHINES - FOOTPRINT L1](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2011.00.52%E2%80%AFa.m..png)<br/>
+> [!NOTE]
+> Evidencias en [PARTE_3_MALTEGO](/PARTE_3_MALTEGO).
 <br/><br/>
 
 
 ## Parte 4 – Reflexión (1 hoja)
 Responder:<br/>
 
-* Diferencia entre reconocimiento pasivo y activo.
-El reconocimiento pasivo es la obtención de información mediante fuentes de datos públicas (Ej. buscador, redes sociales, comunicados, ...), el reconocimiento activo involucra interactuar con el objetivo para obtener la información.
+* **Diferencia entre reconocimiento pasivo y activo.**
+>El reconocimiento pasivo es la obtención de información mediante fuentes de datos públicas (Ej. buscador, redes sociales, comunicados, ...), el reconocimiento activo involucra interactuar con el objetivo para obtener la información.
 
-* ¿Por qué el reconocimiento sin autorización puede ser ilegal?
-Porque hay leyes que protegen la privacidad de la información.
+* **¿Por qué el reconocimiento sin autorización puede ser ilegal?**
+>Porque hay leyes que protegen la privacidad de la información.
 
-* ¿Qué aprendiste sobre la exposición de información?
-Hay mucha información sensible de forma pública cuando no debería ser completamente pública, dicha información puede apoyar o provocar brechas de seguridad.
+* **¿Qué aprendiste sobre la exposición de información?**
+>Hay mucha información sensible de forma pública cuando no debería ser completamente pública, dicha información puede apoyar o provocar brechas de seguridad.
 <br/><br/>
 
 
 
-## 📦 Cómo lo entregan
+## 📦 ¿Cómo lo entregan?
 **Suben a GitHub un repositorio llamado:**
 >Modulo-3-Reconocimiento
 
 **Con:**
->PDF con evidencias<br/>
->Capturas<br/>
->Explicaciones<br/>
->**[README.md](https://github.com/electroprogra/HE-Modulo-3-Reconocimiento/blob/main/README.md)** explicando lo que hicieron
+* PDF con evidencias<br/>
+* Capturas<br/>
+* Explicaciones<br/>
+* ***[README.md](https://github.com/electroprogra/HE-Modulo-3-Reconocimiento/blob/main/README.md)** explicando lo que hicieron
