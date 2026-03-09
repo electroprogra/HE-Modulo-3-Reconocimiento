@@ -60,7 +60,8 @@ Se encontraron los siguientes Google Dorks (Google Hacking):<br/>
 2. Se utilizó de objetivo el dominio https://ferias.empleo.gob.mx.
 3. Del dominio anterior se obtuvo el DNS (Transformer: To Domains DNS).
 4. Del DNS se obtuvo la IP (Transformer: To IP Address DNS).
-5. De la IP se obutvo la localicación (Transformer: To location City, Country).
+5. De la IP se obutvo la localicación (Transformer: To location City, Country).<br/>
+![Mapa visual realizado en Maltego](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2011.00.52%E2%80%AFa.m..png)
 <br/><br/>
 
 
