@@ -61,7 +61,8 @@ Se encontraron los siguientes Google Dorks (Google Hacking):<br/>
 3. Del dominio anterior se obtuvo el DNS (Transformer: To Domains DNS).
 4. Del DNS se obtuvo la IP (Transformer: To IP Address DNS).
 5. De la IP se obutvo la localicación (Transformer: To location City, Country).<br/>
-![Mapa visual realizado en Maltego](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2011.00.52%E2%80%AFa.m..png)
+![Mapa visual - Tarea 3 realizado en Maltego](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2010.53.00%E2%80%AFa.m..png)<br/>
+![Mapa visual - Tarea 3 v2, realizado en Maltego utilizando herramienta MACHINES - FOOTPRINT L1](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2011.00.52%E2%80%AFa.m..png)
 <br/><br/>
 
 
