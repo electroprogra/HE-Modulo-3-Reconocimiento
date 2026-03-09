@@ -1,0 +1,92 @@
+https://docs.google.com/forms/d/e/1FAIpQLSdzD8WaujWe85BINL0APT_7ZjGN4GxCp80_F7judVUCi5hruw/viewform?usp=mail_form_link
+
+Tarea 3 • Ciberseguridad • Febrero 2026 • Clase 3
+El presente formulario es para alumnos del curso de Ciberseguridad
+
+NOTA: Las tareas podrán ser enviadas como límite el día lunes 9 de marzo 2026 a las 16:00 hrs hora Ciudad de México, NO SE PODRÁN RECIBIR TAREAS FUERA DE LA FECHA INDICADA BAJO NINGUNA CIRCUNSTANCIA.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tarea 3 · Módulo 3: Reconocimiento Pasivo y Activo Básico
+
+Parte 1 – Reconocimiento Pasivo con Google Dorks
+
+Cada alumno debe:
+
+1. Crear 8 búsquedas diferentes usando:
+
+   * `site:`
+   * `filetype:`
+   * `inurl:`
+   * `intitle:`
+   * `"frase exacta"`
+   * `OR`
+   * `-` (exclusión)
+
+2. Documentar:
+
+   * El dork usado
+   * Qué encontró
+   * Si representa un riesgo o no
+   * Captura de pantalla
+
+👉  Objetivo: Que entiendan cómo se expone información públicamente.
+
+
+Parte 2 – Investigación en GHDB
+
+Entrar a Exploit Database y:
+
+1. Buscar 3 dorks
+2. Explicar:
+
+   * Qué buscan
+   * Qué tipo de exposición detectan
+   * En qué categoría están
+
+👉 Objetivo: Que entiendan cómo se clasifican las exposiciones.
+
+
+Parte 3 – Maltego (Mapa Visual)
+
+En Maltego deben:
+
+1. Crear un grafo nuevo
+
+2. Agregar:
+
+   * Un dominio autorizado o example.com
+
+3. Ejecutar mínimo:
+
+   * Domain → DNS
+   * DNS → IP
+   * IP → Location
+
+4. Tomar captura del grafo final.
+
+👉 Objetivo: Que visualicen cómo se conecta la infraestructura.
+
+
+Parte 4 – Reflexión (1 hoja)
+
+Responder:
+
+* Diferencia entre reconocimiento pasivo y activo.
+* ¿Por qué el reconocimiento sin autorización puede ser ilegal?
+* ¿Qué aprendiste sobre la exposición de información?
+
+
+📦 Cómo lo entregan
+
+Suben a GitHub un repositorio llamado:
+
+Modulo-3-Reconocimiento
+
+Con:
+* PDF con evidencias
+* Capturas
+* Explicaciones
+* README explicando lo que hicieron
+
+------------------------------------------------------------------------------------------
