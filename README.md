@@ -85,7 +85,7 @@ Responder:<br/>
 >Porque hay leyes que protegen la privacidad de la información.
 
 * **¿Qué aprendiste sobre la exposición de información?**
->Hay mucha información sensible de forma pública cuando no debería ser completamente pública, dicha información puede apoyar o provocar brechas de seguridad.
+>Hay mucha información sensible de forma pública cuando no debería ser completamente pública, dicha información puede provocar brechas de seguridad.
 <br/><br/>
 
 
