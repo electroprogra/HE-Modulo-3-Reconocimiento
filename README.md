@@ -30,11 +30,11 @@ Se utilizaron los siguientes Google Dorks:<br/>
 
 ### Buscar componentes del servidor WEB con vulnerabilidades identificadas
 `site:*.gob.mx inurl:javax.faces.resource OR inurl:jsp OR inurl:jsf OR inurl:xhtml`
->Riesgos varios dependiendo de la vulnerabilidad, se probó vulnerabilidad de PATH TRAVERSAL en los primeros 2 resultados, encontrándose uno de ellos con la capacidad de explotarse la vulnerabilidad.
-<br/>
+>Riesgos varios dependiendo de la vulnerabilidad, se probó vulnerabilidad de PATH TRAVERSAL en los primeros 2 resultados, encontrándose uno de ellos con la capacidad de explotarse la vulnerabilidad.<br/>
 
 > [!NOTE]
 > Evidencias en [PARTE_1_GOOGLE_DORKS](/PARTE_1_GOOGLE_DORKS).
+
 <br/><br/>
 
 
@@ -67,8 +67,10 @@ Se encontraron los siguientes Google Dorks (Google Hacking):<br/>
 5. De la IP se obutvo la localicación (Transformer: To location City, Country).<br/>
 ![Mapa visual - Tarea 3 realizado en Maltego](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2010.53.00%E2%80%AFa.m..png)<br/>
 ![Mapa visual - Tarea 3 v2, realizado en Maltego utilizando herramienta MACHINES - FOOTPRINT L1](/PARTE_3_MALTEGO/Screenshot%202026-03-09%20at%2011.00.52%E2%80%AFa.m..png)<br/>
+
 > [!NOTE]
 > Evidencias en [PARTE_3_MALTEGO](/PARTE_3_MALTEGO).
+
 <br/><br/>
 
 
