@@ -31,22 +31,24 @@ Se utilizaron los siguientes Google Dorks:<br/>
 ### Buscar componentes del servidor WEB con vulnerabilidades identificadas
 `site:*.gob.mx inurl:javax.faces.resource OR inurl:jsp OR inurl:jsf OR inurl:xhtml`
 >Riesgos varios dependiendo de la vulnerabilidad, se probó vulnerabilidad de PATH TRAVERSAL en los primeros 2 resultados, encontrándose uno de ellos con la capacidad de explotarse la vulnerabilidad.<br/>
-<br/>
-<br/>
+<br/><br/>
+
+
+
 ## Parte 2 – Investigación en GHDB
 Se encontraron los siguientes Google Dorks (Google Hacking):<br/>
 
-`[intitle:"SSL Network Extender Login" -checkpoint.com](https://www.exploit-db.com/ghdb/8447)`
+`intitle:"SSL Network Extender Login" -checkpoint.com [https://www.exploit-db.com/ghdb/8447](https://www.exploit-db.com/ghdb/8447)`
 >**BUSCA:** Página de login a VPN.<br/>
 >**EXPOSICIÓN:** De acceso no autorizado.<br/>
 >**CATEGORÍA:** Vulnerable Servers<br/>
 
-`[intitle:"index of" env.cgi](https://www.exploit-db.com/ghdb/8404)`
+`intitle:"index of" env.cgi [https://www.exploit-db.com/ghdb/8404]](https://www.exploit-db.com/ghdb/8404)`
 >**BUSCA:** Información de aplicaciones CGI.<br/>
 >**EXPOSICIÓN:** De información sensible.<br/>
 >**CATEGORÍA:** Files Containing Juicy Info<br/>
 
-`[intitle:"OpenVpn Status Monitor"](https://www.exploit-db.com/ghdb/8399)`
+`intitle:"OpenVpn Status Monitor" [https://www.exploit-db.com/ghdb/8399]](https://www.exploit-db.com/ghdb/8399)`
 >**BUSCA:** Información de servidores con OpenVPN.<br/>
 >**EXPOSICIÓN:** De información sensible.<br/>
 >**CATEGORÍA:** Vulnerable Servers<br/>
@@ -85,4 +87,4 @@ Hay mucha información sensible de forma pública cuando no debería ser complet
 >PDF con evidencias<br/>
 >Capturas<br/>
 >Explicaciones<br/>
->**README** explicando lo que hicieron
+>**[README.md](https://github.com/electroprogra/HE-Modulo-3-Reconocimiento/blob/main/README.md)** explicando lo que hicieron
