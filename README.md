@@ -50,16 +50,18 @@ Se encontraron los siguientes Google Dorks (Google Hacking):<br/>
 >**BUSCA:** Información de servidores con OpenVPN.<br/>
 >**EXPOSICIÓN:** De información sensible.<br/>
 >**CATEGORÍA:** Vulnerable Servers<br/>
-<br/>
-<br/>
+<br/><br/>
+
+
 ## Parte 3 – Maltego (Mapa Visual)
 1. De la ENTITY PALETTE se utilizó el elemento DOMAIN.
 2. Se utilizó de objetivo el dominio https://ferias.empleo.gob.mx.
 3. Del dominio anterior se obtuvo el DNS (Transformer: To Domains DNS).
 4. Del DNS se obtuvo la IP (Transformer: To IP Address DNS).
 5. De la IP se obutvo la localicación (Transformer: To location City, Country).
-<br/>
-<br/>
+<br/><br/>
+
+
 ## Parte 4 – Reflexión (1 hoja)
 Responder:<br/>
 
@@ -71,9 +73,11 @@ Porque hay leyes que protegen la privacidad de la información.
 
 * ¿Qué aprendiste sobre la exposición de información?
 Hay mucha información sensible de forma pública cuando no debería ser completamente pública, dicha información puede apoyar o provocar brechas de seguridad.
-<br/>
-<br/>
-##📦 Cómo lo entregan
+<br/><br/>
+
+
+
+## 📦 Cómo lo entregan
 **Suben a GitHub un repositorio llamado:**
 >Modulo-3-Reconocimiento
 
