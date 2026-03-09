@@ -32,6 +32,7 @@ Se utilizaron los siguientes Google Dorks:<br/>
 `site:*.gob.mx inurl:javax.faces.resource OR inurl:jsp OR inurl:jsf OR inurl:xhtml`
 >Riesgos varios dependiendo de la vulnerabilidad, se probó vulnerabilidad de PATH TRAVERSAL en los primeros 2 resultados, encontrándose uno de ellos con la capacidad de explotarse la vulnerabilidad.
 <br/>
+
 > [!NOTE]
 > Evidencias en [PARTE_1_GOOGLE_DORKS](/PARTE_1_GOOGLE_DORKS).
 <br/><br/>
